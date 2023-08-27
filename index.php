@@ -113,7 +113,7 @@ for($i = 1;$i <= 10; $i++){
   }
 
 
-// Problem No: 12
+// Problem No: 13
 echo "<h1>Problem no: 13<br></h1>";
 
 $num = 1;
@@ -125,7 +125,7 @@ echo "<br>";
 echo "<br>";
 
 
-// Problem No: 12
+// Problem No: 14
 echo "<h1>Problem no: 14<br></h1>";
 
 
